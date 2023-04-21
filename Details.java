@@ -1,4 +1,3 @@
-//System.out.print("");
 package Project;
 import java.util.*;
 public class Details {
@@ -144,3 +143,4 @@ public class Details {
 	}
 
 }
+
